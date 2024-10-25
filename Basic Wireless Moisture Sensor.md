@@ -6,7 +6,7 @@
 - [Capacitor Moisture Sensor](https://www.reichelt.at/at/de/shop/produkt/entwicklerboards_-_feuchtesensor_bodenfeuchte_-223620?PROVID=2807&q=/at/de/shop/entwicklerboards-feuchtesensor-bodenfeuchte--debo-cap-sens-p223620.html) 3€
 - [Router](https://www.mediamarkt.at/de/product/_tp-link-tl-sf1005d-netzwerk-switch-5port-1179045.html) 10€
 - [Extra Cables](https://www.berrybase.at/kabel-mit-jst-xh-2.54mm-steckverbinder-awg26-20cm?sPartner=g_shopping_at) 0.33€
-Cost: ~78.33€s
+Cost: ~78.33€
 
 ```
 [ Solar Panel ]
