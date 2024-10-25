@@ -1,4 +1,4 @@
-#engineering #cs
+#engineering
 # Requirements
 - [Arduino Uno WIFI](https://www.reichelt.at/at/de/shop/produkt/arduino_uno_rev4_wifi_ra4m1_esp32-s3-353108?PROVID=2807&q=/at/de/shop/arduino-uno-rev4-wifi-ra4m1-esp32-s3-ard-uno-r4-wifi-p353108.html) 25€
 - instead: esp8266 or esp32 6€
