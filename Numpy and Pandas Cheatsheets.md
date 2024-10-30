@@ -1,3 +1,4 @@
+#code #python
 # Cheatsheets
 ## Numpy
 ![Numpy Cheat Sheet](https://blog.finxter.com/wp-content/uploads/2019/10/grafik-1-1024x725.png)
