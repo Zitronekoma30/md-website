@@ -82,7 +82,9 @@
   @media (max-width: 600px) {
     /* Stack the images vertically on smaller screens */
     .gallery {
-      flex-direction: column;
+      display: flex !important; /* Change display to flex */
+      flex-direction: column !important;
+      max-height: none !important; /* Remove the max-height restriction */
     }
   }
   
