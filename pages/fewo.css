@@ -86,6 +86,11 @@
       flex-direction: column !important;
       max-height: none !important; /* Remove the max-height restriction */
     }
+
+    .gallery img {
+      height: auto !important; /* Adjust height to auto */
+      max-height: none !important; /* Remove any max-height restriction */
+    }
   }
   
   /* Details Section */
