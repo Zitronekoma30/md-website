@@ -78,6 +78,13 @@
   .gallery img:hover {
     transform: scale(1.03);
   }
+
+  @media (max-width: 600px) {
+    /* Stack the images vertically on smaller screens */
+    .gallery {
+      flex-direction: column;
+    }
+  }
   
   /* Details Section */
   .details {
