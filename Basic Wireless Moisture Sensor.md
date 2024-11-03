@@ -27,6 +27,6 @@ Cost: ~78.33€
 Build the ESP32 + moisture sensor setup and power it via micro-usb, run the server on my pc or my home server.
 ![[esp32pins.png]]
 ### Phase 2
-Build the solar to battery setup and use it to power the ESP32
+Build the solar to battery setup and use it to power the ESP32.
 ### Phase 3
 Switch the server to a raspberry pi with a similar / identical solar setup and figure out long distance data transfer.
