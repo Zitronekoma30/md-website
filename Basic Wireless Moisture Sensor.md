@@ -35,7 +35,7 @@ currently the setup looks like this:
 
 All it does at the moment is register itself to a server (at this point my desktop pc) and then transmit it's data live.
 
-This results in a nice live graph, in the future I'd like to server this in a nice web UI for easy access but for testing this will do. I'll add an image
+This results in a nice live graph, in the future I'd like to serve this in a nice web UI for easy access but for testing this will do. Code will be on my Github soon.
 ### Phase 2
 Build the solar to battery setup and use it to power the ESP32.
 ### Phase 3
