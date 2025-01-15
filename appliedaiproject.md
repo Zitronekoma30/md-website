@@ -79,3 +79,6 @@ speed_endurance_precision_mapping = {
 
 ## Sources
 - [GDP per capita dataset](https://www.kaggle.com/datasets/nitishabharathi/gdp-per-capita-all-countries)
+
+## Poster
+![[v2-2.png]]
