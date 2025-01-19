@@ -20,7 +20,7 @@ The basic idea is as follows:
      V
 [Micro-USB to ESP32]
 ```
-Then there will be a raspberry pi running a python script taking all of that data and serving it in a nice web UI.
+Then there will be a raspberry pi running a python script taking all of that data and serving it in a web UI.
 # Plan
 ### Phase 1
 Build the ESP32 + moisture sensor setup and power it via micro-usb, run the server on my pc or my home server.
