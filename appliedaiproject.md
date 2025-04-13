@@ -1,5 +1,5 @@
 # Impact of GDP per capita on Olympic Performance (1991-2020)
-*Paris Lodron University Salzburg - UV Applied AI with Python WS24/25 - Leon Andrassik*
+*------- University ------- - Applied AI with Python WS24/25 - Leon -------
 
 ## Abstract
 This analysis explores the correlation between GDP per capita (adjusted for purchasing power parity) and Olympic performance across various categories. Towards this end, we evaluate the correlation of current GDP with overall performance since 1990, examine how GDP impacts performance in specific sports categories, and investigate whether GDP trends can predict the performance of key countries.
