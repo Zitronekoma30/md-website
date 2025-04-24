@@ -72,7 +72,7 @@ speed_endurance_precision_mapping = {
     'Taekwondo': 'Combat',
     'Boxing': 'Combat',
     'Wrestling': 'Combat',
-    'Fencing': 'Combat'
+    'Fencing': 'Combat',
 }
 ```
 ## Sources
