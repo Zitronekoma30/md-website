@@ -7,7 +7,6 @@ This analysis explores the correlation between GDP per capita (adjusted for purc
 While a positive correlation is observed, GDP per capita (PPP) alone is not a strong predictor of overall Olympic success. However, notable relationships between GDP and performance may offer insight on broader factors influencing both economic development as well as athletic success.
 
 Overall, these findings lay bare some useful trends but highlight the need for further analysis beyond only economic data such as population size and cultural factors.
-
 ## Additional Information
 Plot two sorts of every performance into GDP categories based on the relevant athlete's nation's distance to that year's global average GDP per capita (PPP). Towards this end, a GDP score is calculated for each showing at the games, with 1 representing the exact global average. As mentioned on the poster, 0.7 (70%) is the lower bound for the average GDP category, while 1.5 (150%) forms the upper bound. This is done to make sure the different showings at the games are comparable over time, such that a high GDP showing from 1991 is not miscategorized as low GDP due to factors such as the overall global economic growth or inflation.
 
@@ -76,9 +75,7 @@ speed_endurance_precision_mapping = {
     'Fencing': 'Combat'
 }
 ```
-
 ## Sources
 - [GDP per capita dataset](https://www.kaggle.com/datasets/nitishabharathi/gdp-per-capita-all-countries)
-
 ## Poster
 ![[v2-3.png]]
